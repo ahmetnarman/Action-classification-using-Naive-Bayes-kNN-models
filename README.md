@@ -7,8 +7,6 @@ In this framework, two supervised learning methods were implemented that would c
 | Naive Bayes| 97.5% | 15s |
 | k-Nearest Neighbor | 98.5% | 115s|
 
-To be updated...
-
 ## Description
 
 The detailed description of the task is given in the project description file. 
