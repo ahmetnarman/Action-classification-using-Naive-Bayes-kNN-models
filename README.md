@@ -1,7 +1,6 @@
 # An Activity Recognition framework on Matlab
 
-In this framework, two supervised learning methods were implemented that would classify different activites, whose data is provided in the [`data.mat`](data.mat) file. The classification performance of the two methods are given as:
-
+In this framework, two supervised learning methods were implemented that would classify different activites, whose data is provided in the [`data.mat`](data.mat) file.
 
 ## Description
 
@@ -22,7 +21,7 @@ No access was available to the real testing data, which was used on the model af
 
 The effect of the 'k' variable for kNN classifier was shown in the figure below:
 
-![](Figures/Validation Plot.png)
+![](/Figures/Validation Plot.png)
 
 These results (and results shown in other figures in [`/Figures`](/Figures)) were used to specify model design
 
