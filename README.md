@@ -21,7 +21,7 @@ No access was available to the real testing data, which was used on the model af
 
 The effect of the 'k' variable for kNN classifier was shown in the figure below:
 
-![](/Figures/Validation Plot.png)
+![](Figures/Validation plot.png)
 
 These results (and results shown in other figures in [`/Figures`](/Figures)) were used to specify model design
 
