@@ -1,6 +1,6 @@
 # An Activity Recognition framework on Matlab
 
-In this framework, two supervised learning methods were implemented that would classify different activites, whose data is provided in the [`data.mat`](data.mat) file.
+In this framework, two supervised learning methods were implemented that would classify different activites, whose cleaned and preprocessed data is provided in the [`data.mat`](data.mat) file.
 
 ## Description
 
@@ -10,7 +10,7 @@ In the data, there are five action classes that needs to be classified. For the 
 
 ## Results
 
-The overall results of this project are given in the [`CourseworkReport.pdf`](CourseworkReport.pdf). The prediction accuracies and training+testing times are given below (the models were run on an i5-7300U CPU):
+The overall results of this project are given in the [`CorseworkReport.pdf`](CorseworkReport.pdf). The prediction accuracies and training+testing times are given below (the models were run on an i5-7300U CPU):
 
 | Method | Accuracy | Time |
 |:-------|:-------:|:-------:|
