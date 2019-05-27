@@ -27,7 +27,7 @@ These results (and results shown in other figures in [`/Figures`](/Figures)) wer
 
 ## Dependedcies
 
--Matlab
+- Matlab
 
 This project doesnt require any external software or libraries.
 
