@@ -23,7 +23,7 @@ The effect of the 'k' variable for kNN classifier was shown in the figure below:
 
 <p align="center"><img src="Figures/Validation plot.png" width="50%" alt="" /></p>
 
-These results (and results shown in other figures in [`/Figures`](/Figures)) were used to specify model design
+These results (and results shown in other figures in [`/Figures`](/Figures)) were used to specify the model design.
 
 ## Dependedcies
 
