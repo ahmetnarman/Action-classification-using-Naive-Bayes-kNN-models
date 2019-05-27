@@ -21,7 +21,7 @@ No access was available to the real testing data, which was used on the model af
 
 The effect of the 'k' variable for kNN classifier was shown in the figure below:
 
-<p align="center"><img src="Figures/Validation Plot.png" width="50%" alt="" /></p>
+<p align="center"><img src="Figures/Validation plot.png" width="50%" alt="" /></p>
 
 These results (and results shown in other figures in [`/Figures`](/Figures)) were used to specify model design
 
@@ -33,4 +33,4 @@ This project doesnt require any external software or libraries.
 
 ## Quick Guide
 
-To run the kNN classifier, run the [`kNN_Master.m`](kNN_Master.m) script on Matlab. Similarly, run [`NB_Master.m`](NB_Master.m) script to run the Naive Bayes classifier. The scripts do training and testing multiple times to account for model variability, you should change the the code if you want it to run just once.
+To run the kNN classifier, run the [`kNN_MasterCode.m`](kNN_MasterCode.m) script on Matlab. Similarly, run [`NB_MasterCode.m`](NB_MasterCode.m) script to run the Naive Bayes classifier. The scripts do training and testing multiple times to account for model variability, you should change the the code if you want it to run just once.
