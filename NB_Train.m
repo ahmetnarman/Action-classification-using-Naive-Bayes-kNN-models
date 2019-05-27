@@ -4,7 +4,7 @@
 %%% MSc. HBR
 %%% Imperial College London
 
-function P = TrainClassifierX(input, label)
+function P = NB_Train(input, label)
 
 cl1 = input(find(label==1),:); % All data belonging to class 1
 cl2 = input(find(label==2),:); % All data belonging to class 2

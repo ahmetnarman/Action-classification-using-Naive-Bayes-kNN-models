@@ -4,7 +4,7 @@
 %%% MSc. HBR
 %%% Imperial College London
 
-function label = ClassifyX(input, P)
+function label = NB_Classify(input, P)
 
 [testSize, testDim] = size(input); % Size of the testing sample
 

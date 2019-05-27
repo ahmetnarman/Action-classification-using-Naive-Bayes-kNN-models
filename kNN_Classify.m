@@ -4,7 +4,7 @@
 %%% MSc. HBR
 %%% Imperial College London
  
-function label = ClassifyX(input, P)
+function label = kNN_Classify(input, P)
  
 % Training data and labels combined, training data normalized
 train = [P.data(:,1) (P.data(:,2:65)-P.mean)./P.std];

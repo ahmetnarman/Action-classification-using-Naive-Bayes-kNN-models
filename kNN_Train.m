@@ -4,7 +4,7 @@
 %%% MSc. HBR
 %%% Imperial College London
  
-function P = TrainClassifierX(input, label)
+function P = kNN_Train(input, label)
  
 P.mean = mean(input); % Mean of training samle for normalization
 P.std = std(input); % Std of training sample for normalization
